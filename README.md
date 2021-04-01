@@ -73,7 +73,7 @@
   <a href="https://www.instagram.com/diks.hant/"><img
       src="https://img.shields.io/badge/-DikshantDeoli-1877F2?style=flat&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/raj.deoli.9/"><img
-      src="https://img.shields.io/badge/-@DikshantDeoli-1877F2?style=flat&logo=Facebook&logoColor=white" /></a>
+      src="https://img.shields.io/badge/-DikshantDeoli-1877F2?style=flat&logo=Facebook&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/dikshantdevli"><img
       src="https://img.shields.io/badge/-DikshantDeoli-1877F2?style=flat&logo=HackerRank&logoColor=white" /></a>
   <a href="https://leetcode.com/_dikshant_/"><img
