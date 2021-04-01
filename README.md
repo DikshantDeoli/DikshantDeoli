@@ -1,14 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dikshant Deoli</h1>
 <h3 align="center">Computer Science Engineer</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/dikshant-%E2%80%8Edeoli-7941081b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dikshant" height="30" width="40" /></a>
-<a href="https://www.facebook.com/raj.deoli.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Dikshant Deoli" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dikshantdevli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
-<a href="https://leetcode.com/_dikshant_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Dikshant Deoli" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ddeolicse18/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="Dikshant Deoli" height="30" width="40" /></a>
- <a href = "mailto: dikshantdevli@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
-</p>
 
 <p align="center">
   <em>
@@ -69,18 +60,20 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/AVS1508"><img
-      src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:avsingh@umass.edu"><img
-      src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/adityavs_"><img
-      src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
-  <a href="https://facebook.com/AVS1508"><img
-      src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white" /></a>
-  <a href="https://www.pinterest.ca/AVS1508"><img
-      src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white" /></a>
-  <a href="https://www.behance.net/AVS1508"><img
-      src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dikshant-%E2%80%8Edeoli-7941081b4/"><img
+      src="https://img.shields.io/badge/-DikshantDeoli-1877F2?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto: ddeoli.cse18@chitkarauniversity.edu.in"><img
+      src="https://img.shields.io/badge/-DikshantDeoli-1877F2?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/diks.hant/"><img
+      src="https://img.shields.io/badge/-DikshantDeoli-1877F2?style=flat&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/raj.deoli.9/"><img
+      src="https://img.shields.io/badge/-@DikshantDeoli-1877F2?style=flat&logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/dikshantdevli"><img
+      src="https://img.shields.io/badge/-DikshantDeoli-1877F2?style=flat&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://leetcode.com/_dikshant_/"><img
+      src="https://img.shields.io/badge/-DikshantDeoli-1877F2?style=flat&logo=Leetcode&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/ddeolicse18/profile"><img
+      src="https://img.shields.io/badge/-DikshantDeoli-1877F2?style=flat&logo=Geeksforgeeks&logoColor=white" /></a>
 </p>
 
 
