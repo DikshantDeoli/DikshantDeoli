@@ -24,6 +24,7 @@
 ✔ Ask me about anything, I am happy to help<br>
 ✔ Fun fact : _At The time of Stress coding, I use to be in half sleeping mode_<br><br><br><br>
 
+<hr>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Languages & Tools I Know..._**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
