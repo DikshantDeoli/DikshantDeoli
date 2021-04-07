@@ -69,8 +69,6 @@
       src="https://img.shields.io/badge/-DikshantDeoli-1877F2?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto: ddeoli.cse18@chitkarauniversity.edu.in"><img
       src="https://img.shields.io/badge/-DikshantDeoli-1877F2?style=flat&logo=Gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/diks.hant/"><img
-      src="https://img.shields.io/badge/-DikshantDeoli-1877F2?style=flat&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/raj.deoli.9/"><img
       src="https://img.shields.io/badge/-DikshantDeoli-1877F2?style=flat&logo=Facebook&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/dikshantdevli"><img
