@@ -52,6 +52,14 @@
 <br>
 <br>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/DikshantDeoli">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshantDeoli&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DikshantDeoli&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" />
+  </a>
+</p>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
